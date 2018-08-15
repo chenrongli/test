@@ -1,7 +1,7 @@
 package com.crl.test;
 
 import lombok.Data;
-
+//test
 @Data
 public class User {
 
